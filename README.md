@@ -6,8 +6,8 @@ This is a dummy application for Docker Challenge practice
 |Endpoint | Description  |
 |--------------------------|---|
 |/hello | returns "Hello Stranger" |
-|/hello?name=AliAhmadi | returns "Hello Ali Ahmadi" (camel case gets cut by spaces)|
-|/author | returns "Ali Ahmadi" (put your name and family. hard code it in code) |
+|/hello?name=RezaArmiun | returns "Hello Reza Armiun" (camel case gets cut by spaces)|
+|/author | returns "Reza Armiun" |
 
 ## Working with SayHello App in your IDE
 
