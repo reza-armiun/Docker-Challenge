@@ -20,5 +20,9 @@ public class SayHelloController {
         return helloMsg.toString().replaceAll("(?=[A-Z]+)", " ").trim();
     }
 
+    @GetMapping("/author")
+    public String getAuthor() {
+        return "Reza Armiun";
+    }
 
 }
