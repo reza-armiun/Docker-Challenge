@@ -43,6 +43,8 @@ Or you can run it from Maven directly using the Spring Boot Maven plugin. If you
 
 4. Visit http://localhost:8080/hello
 
+>**NOTE**: erase "novinrepo:8082/docker/" from both ***docker-compose.yml*** and ***dockerfile***
+
 ## Working with SayHello App in your IDE
 
 ### Prerequisites
