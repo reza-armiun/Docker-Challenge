@@ -1,4 +1,4 @@
-FROM novinrepo:8082/docker/oracle-jdk:11-buster
+FROM openjdk:11.0.16-jdk
 
 WORKDIR /app
 
